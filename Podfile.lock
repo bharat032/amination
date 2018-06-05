@@ -1,0 +1,18 @@
+PODS:
+  - Cosmos (16.0.0)
+  - PopupKit (3.1.1)
+  - Presentr (1.3.2)
+
+DEPENDENCIES:
+  - Cosmos
+  - PopupKit
+  - Presentr
+
+SPEC CHECKSUMS:
+  Cosmos: 7bcee0fa858a9355a214f2a181be5dffcee42c81
+  PopupKit: e362ed92148d831a9c38a2bc7a25893e46d64c54
+  Presentr: 797ae6ec8904eaba4ec58a4c2065bd66e31569ea
+
+PODFILE CHECKSUM: 7213b9012a4ac42ab0a102015ff5e1274d793ea4
+
+COCOAPODS: 1.4.0
