@@ -1,2 +1,0 @@
-# amination
-amination project
